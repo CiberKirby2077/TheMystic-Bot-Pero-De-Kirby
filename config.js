@@ -5,10 +5,12 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['5219992095479', '👑 Mystic - Creador 👑', true],
   ['50575008120', '🤖 Mystic - Bot 🤖', true],
-  ['17722386341']
+  ['528115900546']
 ] // Cambia los numero que quieras
-global.mods = [] 
-global.prems = [] 
+global.mods = ['528115900546],
+               ['525538925882']
+global.prems = ['528115900546],
+               ['525538925882']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
